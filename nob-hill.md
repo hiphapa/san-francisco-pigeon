@@ -12,4 +12,4 @@ Hopping up the stairs you see the most beautiful bird you've ever seen.
 
 He's green and red and squawks really, really loudly. Just your type. 
 
-Do you go talk to him, or watch him creepily from a distance?
+Do you go [talk to him](https://github.com/hiphapa/san-francisco-pigeon/blob/master/talk-to-parrot.md), or watch him creepily from a distance?
