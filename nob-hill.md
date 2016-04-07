@@ -10,6 +10,6 @@ When you get to the cathedral, you feel transformed. It's peaceful, it's quiet, 
 
 Hopping up the stairs you see the most beautiful bird you've ever seen. 
 
-He's green and red and squaks really, really loud. Just your type. 
+He's green and red and squawks really, really loudly. Just your type. 
 
 Do you go talk to him, or watch him creepily from a distance?
